@@ -17,7 +17,10 @@ go build -o port-scanner
 ## Usage
 
 -s Start port number
+
 -e End port number
+
 -c Number of workers
+
 -w Wait timeout
 
