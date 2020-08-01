@@ -1,4 +1,4 @@
-# GO TCP Connect Port Scanner
+# Go TCP Connect Port Scanner
 
 A TCP connect port scanner written in Go. Uses concurrency to improve the speed.
 
